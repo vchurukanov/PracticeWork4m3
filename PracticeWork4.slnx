@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Task1_FavoriteMelodies/Task1_FavoriteMelodies.csproj" />
+  <Project Path="Task2_JobSearch/Task2_JobSearch.csproj" />
+  <Project Path="Task3_CheckedMelodies/Task3_CheckedMelodies.csproj" />
+</Solution>
